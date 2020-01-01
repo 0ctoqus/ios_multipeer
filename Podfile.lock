@@ -1,0 +1,16 @@
+PODS:
+  - MultiPeer (0.0.8)
+
+DEPENDENCIES:
+  - MultiPeer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MultiPeer
+
+SPEC CHECKSUMS:
+  MultiPeer: 64cb9acb798e9178b9374e1475799d09dc55e5b6
+
+PODFILE CHECKSUM: 80dfb6522dcdb7514d53aae60c2c81d033cc7ba5
+
+COCOAPODS: 1.5.3
